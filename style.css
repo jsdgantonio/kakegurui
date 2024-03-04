@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background-image: url('kakegurui-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+
+
+  h5 {
+        color: red; /* Set the text color to red */
+        text-align: center; /* Center-align the text */
+        margin: 20px 0; /* Add margin top and bottom for spacing */
+        position: relative; /* Enable absolute positioning */
+    }
+
+
+  
+    
+    
+ 
